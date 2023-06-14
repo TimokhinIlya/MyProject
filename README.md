@@ -1,4 +1,4 @@
-# MyProjects
+# Portfolio
 
 This repository contains jupyter-notebook with EDA on various datasets and presentations with dashboards.
 
