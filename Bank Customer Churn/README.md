@@ -1,4 +1,4 @@
-# Bank Customer Churn - EDA
+# Bank Customer Churn -- EDA
 
 В данной исследовательской работе проведен анализ оттока клиентов банка.
 
