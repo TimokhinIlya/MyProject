@@ -1,4 +1,4 @@
-# Sales Product Data - EDA
+# Sales Product Data -- EDA
 
 В данной исследовательской работе проведен анализ продаж товаров взятых с веб-сайта Amazon.
 
